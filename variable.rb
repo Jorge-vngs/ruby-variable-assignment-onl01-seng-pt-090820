@@ -1,4 +1,4 @@
- greeting = "Hello World" 
+ greeting = "Hello world" 
  
  
  # Define a local variable called 'greeting',
